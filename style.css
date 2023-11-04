@@ -1,0 +1,28 @@
+.body{
+  margin: 0;
+}
+
+.box{
+  height: 310px;
+  width: 350px;
+  box-shadow: 1px 1px 3px;
+  font-family: sans-serif;
+  border: solid black 0.5px;
+  padding: 5px;
+}
+
+input{
+  border-radius: 3px;
+  border: solid black 0.5px;
+}
+
+.button{
+  margin-left: 242px;
+  border: solid black 0.5px;
+  border-radius: 3px;
+}
+
+a{
+  text-decoration: none;
+  color: orangered;
+}
